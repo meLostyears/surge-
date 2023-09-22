@@ -1,18 +1,18 @@
 # NAME: txv
 # AUTHOR: meLostyears
 # REPO: https://github.com/meLostyears/surge-
-# UPDATED: 2023-09-23 03:47
-DOMAIN, adsmind.gdtimg.com, REJECT
-DOMAIN, btrace.qq.com, REJECT
-DOMAIN, btrace.video.qq.com, REJECT
-DOMAIN, info4.video.qq.com, REJECT
-DOMAIN, info6.video.qq.com, REJECT
-DOMAIN, ios.video.mpush.qq.com, REJECT
-DOMAIN, mtrace.qq.com, REJECT
-DOMAIN, p.l.qq.com, REJECT
-DOMAIN, pgdt.gtimg.cn, REJECT
-DOMAIN, rpt.gdt.qq.com, REJECT
-DOMAIN-SUFFIX, trace.qq.com, REJECT
-URL-REGEX, ^http:\/\/[\d\.:]*\/?(defaultts|vmind\.qqvideo)\.tc\.qq\.com\/\w+, REJECT
-URL-REGEX, ^http:\/\/apd-vlive\.apdcdn\.tc\.qq\.com\/vmind\.qqvideo\.tc\.qq\.com\/\w+, REJECT
-URL-REGEX, ^http:\/\/apd-\w+\.v\.smtcdns\.com\/(defaultts|omts|vmind\.qqvideo)\.tc\.qq\.com\/\w+, REJECT
+# UPDATED: 2023-09-23 03:50
+DOMAIN, adsmind.gdtimg.com
+DOMAIN, btrace.qq.com
+DOMAIN, btrace.video.qq.com
+DOMAIN, info4.video.qq.com
+DOMAIN, info6.video.qq.com
+DOMAIN, ios.video.mpush.qq.com
+DOMAIN, mtrace.qq.com
+DOMAIN, p.l.qq.com
+DOMAIN, pgdt.gtimg.cn
+DOMAIN, rpt.gdt.qq.com
+DOMAIN-SUFFIX, trace.qq.com
+URL-REGEX, ^http:\/\/[\d\.:]*\/?(defaultts|vmind\.qqvideo)\.tc\.qq\.com\/\w+
+URL-REGEX, ^http:\/\/apd-vlive\.apdcdn\.tc\.qq\.com\/vmind\.qqvideo\.tc\.qq\.com\/\w+
+URL-REGEX, ^http:\/\/apd-\w+\.v\.smtcdns\.com\/(defaultts|omts|vmind\.qqvideo)\.tc\.qq\.com\/\w+
