@@ -1,9 +1,8 @@
 # NAME: noproxy
 # AUTHOR: melostyeas
 # REPO: https://github.com/meLostyears
-# UPDATED: 2023-12-21 14:43
 # DOMAIN-SUFFIX: 22,去掉apple，tv.apple
-# TOTAL: 32
+# TOTAL: 33
 DOMAIN-SUFFIX,movie.douban.com
 DOMAIN-SUFFIX,mddcloud.com.cn
 DOMAIN-SUFFIX,aliyundrive.asia
