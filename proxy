@@ -1,8 +1,8 @@
 # NAME: proxy
 # AUTHOR: melostyeas
 # REPO: https://github.com/meLostyears
-#del themoviedb.org,thetvdb.com,tmdb.org
-# TOTAL: 20
+#del 3 themoviedb.org,thetvdb.com,tmdb.org
+# TOTAL: 17
 DOMAIN-SUFFIX,v1.mk
 DOMAIN-SUFFIX,notion-api.splitbee.io
 DOMAIN-SUFFIX,discord.com
