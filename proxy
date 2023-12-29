@@ -1,3 +1,7 @@
+# NAME: proxy
+# AUTHOR: melostyeas
+# REPO: https://github.com/meLostyears
+# TOTAL: 20
 DOMAIN-SUFFIX,v1.mk
 DOMAIN-SUFFIX,notion-api.splitbee.io
 DOMAIN-SUFFIX,themoviedb.org
